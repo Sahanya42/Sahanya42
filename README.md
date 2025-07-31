@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Sahanya Yamini Kandanaarachchi 👋</h1>
+  <h1>Hi, I'm Sahanya Yamini Kandanaarachchi </h1>
   <p>
     2nd-year Software Engineering student at NIBM <br>
     Web Developer | Mobile App Developer | Software Developer
